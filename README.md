@@ -22,9 +22,9 @@ Star properties
 
 ## Application screenshots
 
-![](SS1.jpg)
-![](SS2.jpg)
-![](SS3.jpg)
+![](SS1.JPG)
+![](SS2.JPG)
+![](SS3.JPG)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
