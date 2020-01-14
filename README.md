@@ -23,7 +23,7 @@ Star properties
 
 **As I am not importing the X and Y position of the stars in universe they are drawn with the sun in the center and their distance from the sun. Important - The distance from the sun is true for the scale but the position is randomized.**
 ```
-Note that this application is built for an educational purpose.
+Note that this application is built for an educational purpose!
 ```
 
 
