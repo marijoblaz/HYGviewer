@@ -13,6 +13,7 @@ This application has the following features:
 The HYG star database contains several different values assigned to all of the stars (positio, name, brightness, distance from the sun, etc..). Out of that data, only the name of stars, their distance from the sun and their brightness are shown in the table. You are free to edit the data and upload to your local database.
 
 ## Visualisation
+IMPORTANT For users in Croatia and other coultures - make sure that your windows decimal separator is '**.**' not '**,**'! 
 The visualization window/form is a Full HD interactive window used to visualize the star's distance from the sun and its brightness.
 
 Star properties
