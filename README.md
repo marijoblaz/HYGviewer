@@ -1,5 +1,7 @@
 # HYGviewer
 Windows form application built to visualize the HYG star database based on [astronexus/HYG-Database](https://github.com/astronexus/HYG-Database).
+## Instalation
+Download or clone the files from this repository. There is no installation process, just start the MA.exe making sure everything is in one folder.
 ## Features
 This application has the following features:
 * Import of .csv HYG database
